@@ -25,14 +25,6 @@ This project performs sentiment analysis on text reviews using a pre-trained BER
 - Pandas
 - NumPy
 
----
-
-## Project Structure
-
-sentiment-analysis/
-│
-├── sentiment_analysis.py
-├── README.md
 
 ---
 
@@ -85,16 +77,4 @@ Sentiment Scale:
 
 ---
 
-## Notes
 
-- Some websites may block web scraping
-- Maximum input length is limited to 512 tokens
-- CPU inference may take more time
-
----
-
-## Resume Description
-
-Developed a sentiment analysis application using a pre-trained BERT model to classify text reviews on a 1–5 sentiment scale. Implemented web scraping using BeautifulSoup and performed data processing with Pandas and PyTorch.
-
----
